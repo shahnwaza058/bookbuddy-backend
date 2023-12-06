@@ -1,0 +1,15 @@
+C:\Users\shahnwazansari\Desktop\shahnwaz-ansari\Mini_Assignment_2\Book_Borrowing_System\Business_Logic_Layer\bin\Release\net7.0\Business_Logic_Layer.deps.json
+C:\Users\shahnwazansari\Desktop\shahnwaz-ansari\Mini_Assignment_2\Book_Borrowing_System\Business_Logic_Layer\bin\Release\net7.0\Business_Logic_Layer.dll
+C:\Users\shahnwazansari\Desktop\shahnwaz-ansari\Mini_Assignment_2\Book_Borrowing_System\Business_Logic_Layer\bin\Release\net7.0\Business_Logic_Layer.pdb
+C:\Users\shahnwazansari\Desktop\shahnwaz-ansari\Mini_Assignment_2\Book_Borrowing_System\Business_Logic_Layer\bin\Release\net7.0\Data_Access_Layer.dll
+C:\Users\shahnwazansari\Desktop\shahnwaz-ansari\Mini_Assignment_2\Book_Borrowing_System\Business_Logic_Layer\bin\Release\net7.0\Data_Access_Layer.pdb
+C:\Users\shahnwazansari\Desktop\shahnwaz-ansari\Mini_Assignment_2\Book_Borrowing_System\Business_Logic_Layer\obj\Release\net7.0\Business_Logic_Layer.csproj.AssemblyReference.cache
+C:\Users\shahnwazansari\Desktop\shahnwaz-ansari\Mini_Assignment_2\Book_Borrowing_System\Business_Logic_Layer\obj\Release\net7.0\Business_Logic_Layer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\shahnwazansari\Desktop\shahnwaz-ansari\Mini_Assignment_2\Book_Borrowing_System\Business_Logic_Layer\obj\Release\net7.0\Business_Logic_Layer.AssemblyInfoInputs.cache
+C:\Users\shahnwazansari\Desktop\shahnwaz-ansari\Mini_Assignment_2\Book_Borrowing_System\Business_Logic_Layer\obj\Release\net7.0\Business_Logic_Layer.AssemblyInfo.cs
+C:\Users\shahnwazansari\Desktop\shahnwaz-ansari\Mini_Assignment_2\Book_Borrowing_System\Business_Logic_Layer\obj\Release\net7.0\Business_Logic_Layer.csproj.CoreCompileInputs.cache
+C:\Users\shahnwazansari\Desktop\shahnwaz-ansari\Mini_Assignment_2\Book_Borrowing_System\Business_Logic_Layer\obj\Release\net7.0\Business_Logic_Layer.csproj.CopyComplete
+C:\Users\shahnwazansari\Desktop\shahnwaz-ansari\Mini_Assignment_2\Book_Borrowing_System\Business_Logic_Layer\obj\Release\net7.0\Business_Logic_Layer.dll
+C:\Users\shahnwazansari\Desktop\shahnwaz-ansari\Mini_Assignment_2\Book_Borrowing_System\Business_Logic_Layer\obj\Release\net7.0\refint\Business_Logic_Layer.dll
+C:\Users\shahnwazansari\Desktop\shahnwaz-ansari\Mini_Assignment_2\Book_Borrowing_System\Business_Logic_Layer\obj\Release\net7.0\Business_Logic_Layer.pdb
+C:\Users\shahnwazansari\Desktop\shahnwaz-ansari\Mini_Assignment_2\Book_Borrowing_System\Business_Logic_Layer\obj\Release\net7.0\ref\Business_Logic_Layer.dll

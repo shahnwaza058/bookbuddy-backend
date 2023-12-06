@@ -1,0 +1,14 @@
+C:\Users\shahnwazansari\Desktop\shahnwaz-ansari\Mini_Assignment_2\Book_Borrowing_System\Data_Access_Layer\bin\Release\net7.0\Data_Access_Layer.deps.json
+C:\Users\shahnwazansari\Desktop\shahnwaz-ansari\Mini_Assignment_2\Book_Borrowing_System\Data_Access_Layer\bin\Release\net7.0\Data_Access_Layer.runtimeconfig.json
+C:\Users\shahnwazansari\Desktop\shahnwaz-ansari\Mini_Assignment_2\Book_Borrowing_System\Data_Access_Layer\bin\Release\net7.0\Data_Access_Layer.dll
+C:\Users\shahnwazansari\Desktop\shahnwaz-ansari\Mini_Assignment_2\Book_Borrowing_System\Data_Access_Layer\bin\Release\net7.0\Data_Access_Layer.pdb
+C:\Users\shahnwazansari\Desktop\shahnwaz-ansari\Mini_Assignment_2\Book_Borrowing_System\Data_Access_Layer\obj\Release\net7.0\Data_Access_Layer.csproj.AssemblyReference.cache
+C:\Users\shahnwazansari\Desktop\shahnwaz-ansari\Mini_Assignment_2\Book_Borrowing_System\Data_Access_Layer\obj\Release\net7.0\Data_Access_Layer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\shahnwazansari\Desktop\shahnwaz-ansari\Mini_Assignment_2\Book_Borrowing_System\Data_Access_Layer\obj\Release\net7.0\Data_Access_Layer.AssemblyInfoInputs.cache
+C:\Users\shahnwazansari\Desktop\shahnwaz-ansari\Mini_Assignment_2\Book_Borrowing_System\Data_Access_Layer\obj\Release\net7.0\Data_Access_Layer.AssemblyInfo.cs
+C:\Users\shahnwazansari\Desktop\shahnwaz-ansari\Mini_Assignment_2\Book_Borrowing_System\Data_Access_Layer\obj\Release\net7.0\Data_Access_Layer.csproj.CoreCompileInputs.cache
+C:\Users\shahnwazansari\Desktop\shahnwaz-ansari\Mini_Assignment_2\Book_Borrowing_System\Data_Access_Layer\obj\Release\net7.0\Data_Access_Layer.dll
+C:\Users\shahnwazansari\Desktop\shahnwaz-ansari\Mini_Assignment_2\Book_Borrowing_System\Data_Access_Layer\obj\Release\net7.0\refint\Data_Access_Layer.dll
+C:\Users\shahnwazansari\Desktop\shahnwaz-ansari\Mini_Assignment_2\Book_Borrowing_System\Data_Access_Layer\obj\Release\net7.0\Data_Access_Layer.pdb
+C:\Users\shahnwazansari\Desktop\shahnwaz-ansari\Mini_Assignment_2\Book_Borrowing_System\Data_Access_Layer\obj\Release\net7.0\Data_Access_Layer.genruntimeconfig.cache
+C:\Users\shahnwazansari\Desktop\shahnwaz-ansari\Mini_Assignment_2\Book_Borrowing_System\Data_Access_Layer\obj\Release\net7.0\ref\Data_Access_Layer.dll
